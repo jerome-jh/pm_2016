@@ -1,0 +1,4 @@
+http://www.listesdemots.fr/touslesmots.txt
+http://www.lexique.org/listes/liste_mots_mix.zip
+#http://www.pallier.org/ressources/dicofr/dicofr.html
+http://www.pallier.org/ressources/dicofr/liste.de.mots.francais.frgut.txt
