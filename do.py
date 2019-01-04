@@ -278,8 +278,12 @@ if __name__ == '__main__':
       i += 1
   #l.sort(key=sort_len_f) 
   l.sort(key=sort_value_f) 
+  tot = 0
   for p in l:
     p.print()
+    tot = tot + p.value
+
+  print("%d words, %d total points"%(len(l), tot))
 
   quit()
 
